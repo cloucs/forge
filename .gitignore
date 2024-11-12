@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+VulkanDebug
+VulkanRelease
+
+# local backups
+*.bak
+
